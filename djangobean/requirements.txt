@@ -1,0 +1,10 @@
+argparse==1.2.1
+configobj==4.7.2
+decorator==3.3.2
+## FIXME: could not find svn URL in dependency_links for this package:
+distribute==0.6.24dev-r0
+ipython==0.12.1
+pexpect==2.3
+simplegeneric==0.7
+virtualenv==1.7.1.2
+wsgiref==0.1.2
